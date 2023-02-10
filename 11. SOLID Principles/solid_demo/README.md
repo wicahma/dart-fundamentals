@@ -19,6 +19,7 @@ Disarankan untuk membuat interface yang lebih spesifik, agar tidak terjadi class
 ## D - Dependency Inversion Principle
 
 Disarankan untuk membuat class yang tidak terlalu bergantung pada class lain, agar ketika terjadi perubahan pada class lain, tidak perlu melakukan perubahan pada class yang bergantung pada class tersebut. Dapat pula diartikan dengan: 
+
 ---
 
 _Depend on abstraction, not on concretions._
